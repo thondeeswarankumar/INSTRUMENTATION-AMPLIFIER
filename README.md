@@ -32,10 +32,10 @@ MODEL GRAPH:
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/12577201-466d-4ed0-ad78-32e92a947c6f" />
 
 TABULATION:
-
+1
 
 GRAPH: 
 
-
+2
 RESULT:
-
+3
